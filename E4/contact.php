@@ -8,7 +8,6 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="main.js"></script>
 		<link rel="stylesheet" type="text/css" href="index.css">
-		<style></style>
 	</head>  
     
     <body>
