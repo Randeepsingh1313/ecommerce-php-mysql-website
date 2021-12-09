@@ -1,4 +1,7 @@
-real-estate web application designed to make searching through real estate listings and rental properties easy. Users are able to view posted listings and add their own listings to the database.
+
+
+The goal for this project is to introduce to the process of allowing clients to interact with your database using PHP scripting.
+
 
 TECHNOLOGIES IMPLEMENTED:
 
@@ -12,8 +15,6 @@ Make Google Maps API work
 Sort listings by specifications
 Improve design interface
 Improve layout of individual listing pages
-
-The goal for this project is to introduce to the process of allowing clients to interact with your database using PHP scripting.
 
 Specifications :
 
